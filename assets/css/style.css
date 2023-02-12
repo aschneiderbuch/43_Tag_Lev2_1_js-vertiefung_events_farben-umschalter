@@ -41,7 +41,7 @@ body p {
   background: blue;
 }
 
-#gelbTaste {
+#gelbTaste, .js_gelb {
   background: yellow;
 }
 
